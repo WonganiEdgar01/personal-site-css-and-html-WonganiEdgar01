@@ -97,7 +97,7 @@ While watching the tutorials i have gained a number of skills on how i can work 
 
 My main design choice was to keep the layout simple and clean while incoparating consistent theme. Making my site resposive through the use of flex.
 
-Overall what I'm proud of is that i have manage to come up with a clean portfolio, however its in complete.
+Overall what I'm proud of is that i have manage to come up with a clean portfolio, however its in complete, but i will be working towards developing a complete portfolio site
 
 
 
