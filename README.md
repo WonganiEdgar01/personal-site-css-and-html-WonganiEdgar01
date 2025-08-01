@@ -88,3 +88,16 @@ README.md
 ## ✍️ Student Reflection (To be completed by you)
 
 Add your reflection here. Discuss your design choices, what you found difficult, and what you're most proud of (minimum 100 words).
+
+Creating this Personal portfolio was a bit challenging and a rewarding to my experience, in the sence that with little knolwedge i had to be watching tutorials while developing the portfolio. with the case i was a slower in coming up with a complete portfilio site
+
+In addition to that i had made some designs which have not been fully inplement according to design.
+
+While watching the tutorials i have gained a number of skills on how i can work with HTML and CSS. 
+
+My main design choice was to keep the layout simple and clean while incoparating consistent theme. Making my site resposive through the use of flex.
+
+Overall what I'm proud of is that i have manage to come up with a clean portfolio, however its in complete.
+
+
+
